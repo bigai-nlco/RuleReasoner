@@ -1,7 +1,7 @@
 """Utility functions for loading and processing datasets.
 
 This module provides functions for loading datasets from JSON files and handling
-dataset-related operations in the R1 project.
+dataset-related operations.
 """
 
 import json

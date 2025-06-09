@@ -1,4 +1,4 @@
-"""Dataset type definitions for R1.
+"""Dataset type definitions for Rule Reasoner.
 
 This module defines enums for training and testing datasets used in R1,
 as well as a union type for both dataset types.

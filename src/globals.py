@@ -1,5 +1,5 @@
 """
-Global variables for R1 repo.
+Global variables for Rule Reasoner.
 """
 
 # Gemini Vertex AI Config (for dataset preprocessing and LLM as ORM).

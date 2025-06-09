@@ -1,4 +1,4 @@
-"""System prompts for R1 repo."""
+"""System prompts for Rule Reasoner."""
 
 DEEPSEEK_MATH_SYSTEM_PROMPT = (
     """Let's think step by step and output the final answer within \\boxed{}. """

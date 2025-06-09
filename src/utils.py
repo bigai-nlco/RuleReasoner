@@ -1,16 +1,15 @@
-"""Utility functions for R1.
+"""Utility functions for Rule Reasoner.
 
 This module contains various utility functions for making API calls to LLMs,
 implementing RAG functionality, and managing network ports.
 """
 
-import re
 import time
 from typing import List, Union
 
 import torch
-import vertexai
 import openai
+import vertexai
 from google.cloud.aiplatform_v1beta1.types.content import SafetySetting
 from vertexai.generative_models import (
     GenerationConfig,
