@@ -26,7 +26,7 @@
 <a href="https://github.com/bigai-nlco/RuleReasoner/blob/main/LICENSE">
 	<img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT">
 </a>
-<a href="https://github.com/bigai-nlco/RuleReasoner">
+<a href="https://arxiv.org/abs/2506.08672">
 	<img alt="Documentation" src="https://img.shields.io/badge/Paper-arXiv-red.svg">
 </a>
 
@@ -173,10 +173,13 @@ Rulereasoner is protected under the [LICENSE](https://choosealicense.com/license
 
 ## 🔖 Citation
 ```latex
-@misc{rulereasoner2025,
-    title = {RuleReasoner: Reinforced Rule-based Reasoning via Domain-aware Dynamic Sampling},
-    author = {Liu, Yang and Li, Jiaqi and Zheng, Zilong},
-    year = {2025},
-    url = {https://github.com/bigai-nlco/RuleReasoner}
+@misc{liu2025rulereasoner,
+      title={RuleReasoner: Reinforced Rule-based Reasoning via Domain-aware Dynamic Sampling}, 
+      author={Yang Liu and Jiaqi Li and Zilong Zheng},
+      year={2025},
+      eprint={2506.08672},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.08672}, 
 }
 ```
