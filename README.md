@@ -173,7 +173,7 @@ Rulereasoner is protected under the [LICENSE](https://choosealicense.com/license
 
 ## 🔖 Citation
 ```latex
-@misc{liu2025rulereasoner,
+@article{liu2025rulereasoner,
       title={RuleReasoner: Reinforced Rule-based Reasoning via Domain-aware Dynamic Sampling}, 
       author={Yang Liu and Jiaqi Li and Zilong Zheng},
       year={2025},
