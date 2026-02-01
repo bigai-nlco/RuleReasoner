@@ -13,16 +13,16 @@
 
 <!-- BADGES -->
 
-[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://openreview.net/forum?id=MQV4TJyqnb)    [![DeepWiki](https://img.shields.io/badge/Project%20Page-blue?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=black)](https://deepwiki.com/bigai-nlco/RuleReasoner)    [![Github](https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)](https://github.com/bigai-nlco/RuleReasoner)    [![Hugging Face Models](https://img.shields.io/badge/RuleReasoner-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/RuleReasoner)
+[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://openreview.net/forum?id=MQV4TJyqnb)    [![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/bigai-nlco/RuleReasoner)    [![Github](https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)](https://github.com/bigai-nlco/RuleReasoner)    [![Hugging Face Models](https://img.shields.io/badge/RuleReasoner-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/RuleReasoner)
 
 </div>
 <br>
 
 ## News
 - **[2026.01.26]** Our paper has been accepted by **ICLR 2026 ✨**.
-- **[2025.01.26]** Our project introduction has been featured on DeepWiki.
-- **[2025.06.11]** Our post on X (aka. Twitter) has received many likes.
-- **[2025.06.11]** We were featured as HuggingFace Daily Paper #3.
+- **[2025.01.26]** Our project introduction has been featured on [DeepWiki](https://deepwiki.com/bigai-nlco/RuleReasoner).
+- **[2025.06.11]** ![Our post](https://x.com/mayayoko98/status/1932743802059698308) on X (aka. Twitter) has received many likes.
+- **[2025.06.11]** We were featured as HuggingFace Daily Paper ![#3](https://huggingface.co/papers/2506.08672).
 
 ## Overview
 Reinforced Rule-based Reasoning (RuleReasoner) is a method for enabling small reasoning models (SRMs) to effectively learn rule-based reasoning. Unlike large models that require complex training, RuleReasoner uses a curated collection of tasks and a domain-aware dynamic sampling approach, adjusting training based on historical performance. This technique allows SRMs to outperform frontier Large Reasoning Models (LRMs) by +4.1% on in-distribution tasks and +10.4% on out-of-distribution tasks, while also being more computationally efficient.
