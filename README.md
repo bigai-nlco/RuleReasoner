@@ -19,13 +19,24 @@
 <br>
 
 ## News
-- **[2026.01.26]** Our paper has been accepted by [**ICLR 2026**](https://openreview.net/forum?id=MQV4TJyqnb) ✨**.
+- **[2026.01.26]** Our paper has been accepted by [**ICLR 2026**](https://openreview.net/forum?id=MQV4TJyqnb) ✨.
 - **[2025.01.26]** Our project introduction has been featured on [DeepWiki](https://deepwiki.com/bigai-nlco/RuleReasoner).
 - **[2025.06.11]** [Our post](https://x.com/mayayoko98/status/1932743802059698308) on X (aka. Twitter) has received many likes.
 - **[2025.06.11]** We were featured as HuggingFace Daily Paper [#3](https://huggingface.co/papers/2506.08672).
 
 ## Overview
-Reinforced Rule-based Reasoning (RuleReasoner) is a method for enabling small reasoning models (SRMs) to effectively learn rule-based reasoning. Unlike large models that require complex training, RuleReasoner uses a curated collection of tasks and a domain-aware dynamic sampling approach, adjusting training based on historical performance. This technique allows SRMs to outperform frontier Large Reasoning Models (LRMs) by +4.1% on in-distribution tasks and +10.4% on out-of-distribution tasks, while also being more computationally efficient.
+Reinforced Rule-based Reasoning (RuleReasoner) is a simple yet effective method enabling small reasoning models (SRMs) to effectively learn rule-based reasoning. Unlike large models that need complex training, RuleReasoner uses a curated collection of tasks and a domain-aware dynamic sampling approach, adjusting training based on historical performance. This simple yet effective technique allows SRMs to outperform frontier Large Reasoning Models (LRMs) by +4.1% on in-distribution tasks and +10.4% on out-of-distribution tasks, while also being more computationally efficient.
+- Domain-aware dynamic sampling with higher training sampling efficiency and domain performance balance.
+<img src="assets/training_recipe.jpg" width="80%" style="position: relative; top: 0; right: -0.1cm;" alt="OOD Performance"/>
+
+- Comprehensive Data curation for data curricula on rule-centric application.
+<img src="assets/training_data_examples.jpg" width="80%" style="position: relative; top: 0; right: -0.1cm;" alt="OOD Performance"/>
+
+- Rule Reasoner (8B and 4B) depicts comparable performance versus a wide range of baselines.
+<img src="assets/id_performance_comparison.jpg" width="80%" style="position: relative; top: 0; right: -0.1cm;" alt="OOD Performance"/>
+
+- Rule Reasoner (8B and 4B) also achives strong OOD performance across three benchmarks (subsets of rule-based reasoning) including BBH, ProverQA, and BBEH.
+<img src="assets/ood_performance_comparison.jpg" width="90%" style="position: relative; top: 0.3cm; right: -0.1cm;" alt="OOD Performance"/>
 
 ## Table of Contents
 
