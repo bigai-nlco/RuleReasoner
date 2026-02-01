@@ -5,12 +5,6 @@
 
 # RuleReasoner: Reinforced Rule-based Reasoning via Domain-aware Dynamic Sampling
 
-<p align="center">
-    | <a href="https://github.com/bigai-nlco/RuleReasoner"><b>Code</b></a> |
-    <a href="https://huggingface.co/RuleReasoner"><b>Model</b></a> |
-    <a href="https://huggingface.co/datasets/RuleReasoner/rule-reasoning"><b>Data</b></a> |
-</p>
-
 <!-- BADGES -->
 
 [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://openreview.net/forum?id=MQV4TJyqnb)    [![DeepWiki](https://img.shields.io/badge/DeepWiki-blue?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=black)](https://deepwiki.com/bigai-nlco/RuleReasoner)    [![Github](https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)](https://github.com/bigai-nlco/RuleReasoner)    [![Hugging Face Models](https://img.shields.io/badge/RuleReasoner-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/RuleReasoner)
