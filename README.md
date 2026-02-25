@@ -154,13 +154,12 @@ Rulereasoner is distributed under the terms of the [MIT License](https://choosea
 
 ## Citation
 ```latex
-@article{liu2025rulereasoner,
-      title={RuleReasoner: Reinforced Rule-based Reasoning via Domain-aware Dynamic Sampling},
-      author={Yang Liu and Jiaqi Li and Zilong Zheng},
-      year={2025},
-      eprint={2506.08672},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2506.08672},
+@inproceedings{
+    liu2026rulereasoner,
+    title={RuleReasoner: Reinforced Rule-based Reasoning via Domain-aware Dynamic Sampling},
+    author={Yang Liu and Jiaqi Li and Zilong Zheng},
+    booktitle={The Fourteenth International Conference on Learning Representations},
+    year={2026},
+    url={https://openreview.net/forum?id=MQV4TJyqnb}
 }
 ```
